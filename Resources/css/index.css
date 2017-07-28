@@ -3,18 +3,19 @@ html {text-align: center;
     font-family: Helvetica;
 }
 
-.header {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-    font-size: 70px;
+.header {background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");     
     color: white;
-    font-weight: bold;
+    font-weight: bold;}
+
+h1 {
+    font-size: 70px;
+
 }
 
-navi {font-size: 70px;
-        font-weight: bold;
+navi {font-size: 18px;
+        
         }
 
-ul { list-style-type: none;
-    font-size: 18px;
 }
 
 h2 {font-size: 32px;
